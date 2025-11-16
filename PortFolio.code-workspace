@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../test_db_sql"
+		},
+		{
+			"path": "../rychel portefolio"
+		}
+	],
+	"settings": {
+		"sqltools.connections": []
+	}
+}
